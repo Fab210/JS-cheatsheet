@@ -1,11 +1,83 @@
 [{
   "dataJS": "Arrays",
   "dataInfos": [{
-      "name": "sdfa1",
+      "name": "concat()",
       "description": "wdadaw1"
     },
     {
-      "name": "sdfsdfsd1",
+      "name": "every()",
+      "description": "sgsdgsdg1"
+    },
+    {
+      "name": "filter()",
+      "description": "sgsdgsdg1"
+    },
+    {
+      "name": "forEach()",
+      "description": "sgsdgsdg1"
+    },
+    {
+      "name": "indexOf()",
+      "description": "sgsdgsdg1"
+    },
+    {
+      "name": "join()",
+      "description": "sgsdgsdg1"
+    },
+    {
+      "name": "lastIndexOf()",
+      "description": "sgsdgsdg1"
+    },
+    {
+      "name": "map()",
+      "description": "sgsdgsdg1"
+    },
+    {
+      "name": "pop()",
+      "description": "sgsdgsdg1"
+    },
+    {
+      "name": "push()",
+      "description": "sgsdgsdg1"
+    },
+    {
+      "name": "reduce()",
+      "description": "sgsdgsdg1"
+    },
+    {
+      "name": "every()",
+      "description": "sgsdgsdg1"
+    },
+    {
+      "name": "every()",
+      "description": "sgsdgsdg1"
+    },
+    {
+      "name": "every()",
+      "description": "sgsdgsdg1"
+    },
+    {
+      "name": "every()",
+      "description": "sgsdgsdg1"
+    },
+    {
+      "name": "every()",
+      "description": "sgsdgsdg1"
+    },
+    {
+      "name": "every()",
+      "description": "sgsdgsdg1"
+    },
+    {
+      "name": "every()",
+      "description": "sgsdgsdg1"
+    },
+    {
+      "name": "every()",
+      "description": "sgsdgsdg1"
+    },
+    {
+      "name": "every()",
       "description": "sgsdgsdg1"
     }
   ]
